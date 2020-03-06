@@ -57,7 +57,7 @@
     "@angular/cli": "6.0.3",
     "@angular/compiler-cli": "^6.0.2",
     "@angular/language-service": "^6.0.2",
-    "@types/jasmine": "^2.8.7",
+    "@types/jasmine": "^3.5.8",
     "@types/node": "^10.1.2",
     "@types/webaudioapi": "^0.0.27",
     "api-ai-javascript": "^2.0.0-beta.21",
